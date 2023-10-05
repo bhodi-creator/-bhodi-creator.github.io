@@ -60,19 +60,19 @@ $(document).ready(function () {
 //change the file here
 document.getElementById("resume-button-1").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1_I9cGnw3aYeZsONpp5jEeE7QwjcDimw1/view?usp=sharing",
+    "https://drive.google.com/file/d/1S2ijuOYDkyaACmJ6KicpC9dZ4xU-d7yY/view?usp=sharing",
     `_blank`
   );
 };
 
 document.getElementById("resume-button-2").onclick = () => {
   window.open(
-    "https://drive.google.com/file/d/1_I9cGnw3aYeZsONpp5jEeE7QwjcDimw1/view?usp=sharing",
+    "https://drive.google.com/file/d/1S2ijuOYDkyaACmJ6KicpC9dZ4xU-d7yY/view?usp=sharing",
     `_blank`
   );
 };
 
-GitHubCalendar(".calendar", "siddeshg907", {
+GitHubCalendar(".calendar", "bhodi-creator", {
   responsive: true,
   global_stats: true,
   tooltips: true,
