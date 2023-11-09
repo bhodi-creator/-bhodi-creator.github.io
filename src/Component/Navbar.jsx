@@ -21,7 +21,7 @@ import {HamburgerIcon} from '@chakra-ui/icons'
 import { useRef } from 'react';
 
 
-const Navbar_options = [{text : 'Home', id : 'home', class : 'nav-link.home'}, {text : 'About', id : 'about', class : 'nav-link about'}, {text : 'Skills' , id : 'skills',class : 'nav-link skills'}, {text : 'Projects', id : 'projects', class : 'nav-link projects'},{text : 'Contact', id : 'contact', class : "nav-link contact"}];
+const Navbar_options = [{text : 'Home', id : 'home', class : 'nav-link home'}, {text : 'About', id : 'about', class : 'nav-link about'}, {text : 'Skills' , id : 'skills',class : 'nav-link skills'}, {text : 'Projects', id : 'projects', class : 'nav-link projects'},{text : 'Contact', id : 'contact', class : "nav-link contact"}];
 
 
 const Navbar = () => {
