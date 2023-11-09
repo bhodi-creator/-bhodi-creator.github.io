@@ -28,7 +28,7 @@ const Responsive_Projects = [
 
     netlify : 'https://precious-charms.vercel.app/',
 
-    github : 'https://github.com/Nagaraju0710/preciouscharms_clone',
+    github : 'https://github.com/rajeshkumar7678/BabyBloom.com',
 
 
   },
@@ -52,7 +52,7 @@ const Responsive_Projects = [
 
     netlify : 'https://spontaneous-nasturtium-74fc05.netlify.app/',
 
-    github : 'https://github.com/Nagaraju0710/purring-recess-1554',
+    github : 'https://github.com/bhodi-creator/NITHIN-MONDAY-',
 
 
   },
@@ -78,7 +78,7 @@ const non_Responsive_Projects = [
 
     netlify : 'https://rct-101-jvwf8rbgt-nagaraju0710.vercel.app/',
 
-    github : 'https://github.com/Nagaraju0710/Champion_gadgets',
+    github : 'https://github.com/aarifa123/hanging-teeth-7136',
 
     isOnGithub : true
 
@@ -120,7 +120,7 @@ const non_Responsive_Projects = [
   
     netlify : 'https://frontend-fd1br30h5-nagaraju0710.vercel.app/',
   
-    github : 'https://github.com/Nagaraju0710/potent-voyage-8716',
+    github : 'https://github.com/Pranavi-Kayapati/resilient-partner-542',
   
     isOnGithub : true
   
@@ -410,12 +410,7 @@ const Projects = () => {
                           <Box display = {{base : 'block','848px' : 'none'}} h = '30px' mb = '20px'></Box>
 
 
-                            {/* <Image visibility = {el.isResponsive ? 'visible' : 'hidden'} zIndex={'2'} w = {{base : '70%','848px' : '20%'}} src = 'Iphone.png'></Image>
-
-                            <Image visibility = {el.isResponsive ? 'visible' : 'hidden'} top={{base : '40.5%','296px' : '40.3%','358px' : '40%','363px' : '39.6%','468px' : '39%','555px' :'38.5%','631px' : '38%','848px' : '2.5%'}} left = {{base : '26%','468px' :'27%','848px'  :'64.5%','1349px' : '46.1%'}} w ={{ base : '45%','848px' : '12.8%'}} position={'absolute'} src = {el.mobile_screenshot}></Image>
-                       
-                     */}
-                    {/* -------------DEscription box---------------------- */}
+                          
                     
                     
                             <Box display = {{base : 'none','1349px' : 'block'   }} bg="rgb(225, 245, 254)">
